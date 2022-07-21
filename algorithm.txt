@@ -1,0 +1,35 @@
+backend
+install npm init,express,dotenv,nodemon,mongoose
+create server using express
+create schema
+
+
+create api end point
+
+
+frontend
+
+npx create-app
+install chakra for ui
+install router dom
+install axios
+
+
+create chatpage
+homepage
+
+components
+login
+signup
+
+
+mongodb
+create cluster
+give networkaccess
+use mongoose and connect db
+user authentication for sign up and login
+
+
+
+
+

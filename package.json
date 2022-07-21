@@ -1,0 +1,32 @@
+{
+  "name": "streak",
+  "version": "1.0.0",
+  "description": "a chat app",
+  "main": "index.js",
+  "engines": {
+    "node": "16.14.0"
+  },
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "author": "swathy",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/react": "^2.2.1",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "concurrently": "^7.3.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-async-handler": "^1.2.0",
+    "framer-motion": "^6.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.3",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "react-notification-badge": "^1.5.1",
+    "socket.io": "^4.5.1"
+  }
+}
