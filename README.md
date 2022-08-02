@@ -10,3 +10,6 @@
 </ul>
 
 <h3>please refresh the page for faster accesss</h3>
+
+<h1>URL for published documentation</h1>
+<a href="https://documenter.getpostman.com/view/21868300/Uze1xQiz"></h1>
